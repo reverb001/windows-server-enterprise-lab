@@ -8,6 +8,8 @@ The project demonstrates practical skills in Windows Server administration, infr
 
 ## Infrastructure Overview
 
+![Enterprise Infrastructure Lab Network Diagram](diagrams/network-diagram.png)
+
 | Server | IP Address | Function |
 |---|---|---|
 | DC01 | 192.168.50.10 | Active Directory, DNS, DHCP, Group Policy |
