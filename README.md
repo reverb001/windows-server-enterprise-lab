@@ -98,3 +98,13 @@ Successfully tested the script using fictional employee accounts.
 This is an independently developed technical lab intended for hands-on learning, experimentation, and demonstration of IT administration skills.
 
 The environment simulates business infrastructure but is not a production deployment.
+
+## Troubleshooting and Lessons Learned
+
+Documented real-world troubleshooting scenarios encountered
+during the development of this lab, including:
+
+- Active Directory Group Policy targeting and application.
+- Windows Server application connectivity and HTTP troubleshooting.
+
+[View Troubleshooting Documentation](docs/troubleshooting.md)
